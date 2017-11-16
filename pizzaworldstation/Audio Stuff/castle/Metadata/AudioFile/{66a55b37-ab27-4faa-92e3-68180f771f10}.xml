@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{66a55b37-ab27-4faa-92e3-68180f771f10}">
+        <property name="assetPath">
+            <value>HC_Fire5.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>12.288</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f69058d5-655c-4132-bc17-84c8c2f31f13}</destination>
+        </relationship>
+    </object>
+</objects>

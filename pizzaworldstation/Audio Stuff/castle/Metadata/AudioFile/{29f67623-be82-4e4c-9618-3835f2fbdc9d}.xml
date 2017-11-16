@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{29f67623-be82-4e4c-9618-3835f2fbdc9d}">
+        <property name="assetPath">
+            <value>HC_Footsteps_Stone3.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.4723958333333333</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f69058d5-655c-4132-bc17-84c8c2f31f13}</destination>
+        </relationship>
+    </object>
+</objects>

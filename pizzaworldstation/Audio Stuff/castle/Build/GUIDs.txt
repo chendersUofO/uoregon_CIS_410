@@ -1,0 +1,10 @@
+{745a0201-ba8f-40ca-abda-c8b97ec8f00d} event:/03 Photograph
+{68aa4da1-afc2-4387-a320-7f97a27521a0} event:/HC_Footsteps_Stone
+{c34028e3-e4b1-43e4-b54c-4330906338c8} event:/HC_Menu_Click
+{0df41fb7-53a0-4244-a803-acb23c0aee7d} event:/HC_Menu_LoopNT
+{4cb0d004-18f3-486a-a2aa-60bbc3dc71f1} bus:/
+{3ab87e23-aaa5-4a94-a9d3-9f1c9ea2b0a4} bus:/Reverb
+{52871ce7-44bd-4ac5-b9a6-278246aae4cd} bank:/Characters
+{100e3efe-09b4-42b5-b4da-95d072a6642e} bank:/Level
+{f3221b96-98eb-41ad-b349-3b5e019fe088} bank:/Menu
+{fa364a43-da69-46eb-b2d2-6f72b8eaf614} bank:/Master Bank

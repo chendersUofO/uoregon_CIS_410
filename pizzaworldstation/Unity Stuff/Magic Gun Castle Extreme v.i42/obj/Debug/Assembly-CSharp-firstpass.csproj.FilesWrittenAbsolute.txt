@@ -1,0 +1,17 @@
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/UnityEngine.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/UnityEditor.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ChrisApple/Documents/CS410/repo/pizzaworldstation/Unity Stuff/Magic Gun Castle Extreme v.i42/Temp/bin/Debug/Mono.Cecil.Mdb.dll
